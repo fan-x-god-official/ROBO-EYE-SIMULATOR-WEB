@@ -25,4 +25,8 @@ Tactical AI eye interface with multiple operating modes. Designed for HIGH to lo
 - Hosted via Netlify Drop
 - Tactical HUD Design
 
-Developed by **FAN X GOD** 
+<p align="center">
+  <a href="https://github.com/fan-x-god">
+    <img src="https://img.shields.io/badge/DEVELOPED_BY-FAN--X--GOD-blue?style=for-the-badge&logo=github" alt="Developer">
+  </a>
+</p>
