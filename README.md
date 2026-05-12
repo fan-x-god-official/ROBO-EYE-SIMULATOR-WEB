@@ -1,7 +1,6 @@
 # Rubo-Eye-OS-UI
 <img src="https://img.shields.io/badge/BUILD-SUCCESS-00ff00?style=for-the-badge" />
-</p>
-<p align="left">
+</p> <p align="left">
   <a href="https://robo-eye-fan-x-god.netlify.app">
     <img src="https://img.shields.io/badge/LIVE_DEMO-VIEW_INTERFACE-00ccff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -9,7 +8,10 @@
   <img src="https://img.shields.io/badge/UI_STYLE-NEON_CYBERPUNK-00ccff?style=for-the-badge" />
 </p>
 
-[**Click here to launch the UI**](https://robo-eye-fan-x-god.netlify.app)
+[**Click here to launch the UI MOBILE**](https://robo-eye-fan-x-god.netlify.app)
+
+[**Click here to launch the UI PC / LAPTOP**](robo-eye-pc-laptop-work-fan-x-god.netlify.app)
+
 
 Tactical AI eye interface with multiple operating modes. Designed for HIGH to low -performance hardware displays.
 
