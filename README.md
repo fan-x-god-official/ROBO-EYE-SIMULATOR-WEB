@@ -6,7 +6,8 @@
 </p> <p align="left">
   <a href="https://robo-eye-fan-x-god.netlify.app">
     <img src="https://img.shields.io/badge/LIVE_DEMO-VIEW_INTERFACE-00ccff?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>___<img src="https://img.shields.io/badge/CORE-ACTIVE-0044ff?style=for-the-badge&logo=cpu&logoColor=white" />_<img src="https://img.shields.io/badge/UI_STYLE-NEON_CYBERPUNK-00ccff?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/CORE-ACTIVE-0044ff?style=for-the-badge&logo=cpu&logoColor=white" /><img src="https://img.shields.io/badge/UI_STYLE-NEON_CYBERPUNK-00ccff?style=for-the-badge" />
 </p>
 
 [**Click here to launch the UI MOBILE**](https://robo-eye-fan-x-god.netlify.app)
