@@ -1,4 +1,7 @@
 # Rubo-Eye-OS-UI
+![Platform](https://img.shields.io/badge/PLATFORM-PC/LAPTOP_&_MOBILE-black?style=for-the-badge&logo=windows&logoColor=white)
+
+
 <img src="https://img.shields.io/badge/BUILD-SUCCESS-00ff00?style=for-the-badge" />
 </p> <p align="left">
   <a href="https://robo-eye-fan-x-god.netlify.app">
