@@ -1,4 +1,4 @@
-# Rubo-Eye-OS-UI
+# ROBO-EYE-SIMULATOR-WEB
 ![Platform](https://img.shields.io/badge/PLATFORM-PC/LAPTOP_&_MOBILE-black?style=for-the-badge&logo=windows&logoColor=white)
 
 
