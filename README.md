@@ -15,7 +15,7 @@
 [**Click here to launch the UI PC / LAPTOP**](robo-eye-pc-laptop-work-fan-x-god.netlify.app)
 
 
-Tactical AI eye interface with multiple operating modes. Designed for HIGH to low -performance hardware displays.
+Interactive Robo Eye Simulator with tactical operating modes. Optimized for high to low-performance hardware
 
 ## Modes
 - Normal
