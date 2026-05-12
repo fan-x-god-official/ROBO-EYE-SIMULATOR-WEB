@@ -10,9 +10,11 @@
   <img src="https://img.shields.io/badge/CORE-ACTIVE-0044ff?style=for-the-badge&logo=cpu&logoColor=white" />  <img src="https://img.shields.io/badge/UI_STYLE-NEON_CYBERPUNK-00ccff?style=for-the-badge" />
 </p>
 
-[**Click here to launch the UI MOBILE**](https://robo-eye-fan-x-god.netlify.app)
+### Simulation Link 
 
-[**Click here to launch the UI PC / LAPTOP**](robo-eye-pc-laptop-work-fan-x-god.netlify.app)
+[ CLICK HERE TO LAUNCH THE UI MOBILE](https://robo-eye-fan-x-god.netlify.app)
+
+[ CLICK HERE TO LAUNCH THE UI PC / LAPTOP](https://robo-eye-pc-laptop-work-fan-x-god.netlify.app)
 
 
 Interactive Robo Eye Simulator with tactical operating modes. Optimized for high to low-performance hardware
